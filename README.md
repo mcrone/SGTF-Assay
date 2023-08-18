@@ -52,9 +52,9 @@ Setup the RT-qPCR with primer and probe concentrations of 500 nM and 125 nM resp
 </table>
 
 ## Interpretation of Results
-This is a dropout assay and therefore you will expect to not see any amplification when there is a variant that has SGTF. Caution is required with low viral load samples as these may not appear to amplify and may be interpreted as an SGTF variant when in fact they would be below the limit of detection.
+This is a dropout assay and therefore you will expect to not see any amplification when there is a variant that has SGTF. Caution is required with low viral load samples as these may not appear to amplify and may be interpreted as an SGTF variant when in fact they would be below the limit of detection. We would recommend this assay for Research Use Only as it has not been approved by any regulatory body. No clinical decisions should be made on the basis of this assay.
 
-## More Information
+## More Information and questions
 Email me: [m.crone@imperial.ac.uk](mailto:m.crone@imperial.ac.uk)
 
 ## Acknowledgements
