@@ -35,7 +35,7 @@ Setup the RT-qPCR with primer and probe concentrations of 500 nM and 125 nM resp
         <tr>
             <td>2</td>
             <td>94 °C</td>
-            <td>3:00</td>
+            <td>03:00</td>
             <td>1</td>
         </tr>
         <tr>
